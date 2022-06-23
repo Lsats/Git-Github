@@ -6,7 +6,7 @@ Para gerar uma chave SSH para conectar seu Git ao Github:
 
 Abra o GitBash e escreva:
 
-*ssh-keygen -t ed25519 -C “insira seu e-mail”*
+#*ssh-keygen -t ed25519 -C “insira seu e-mail”*#
 
 em seguida aparecerá um diretório para qual sua chave será enviada, caso deseje mudar certifique-se de digitar corretamente o novo diretório que não pode ser uma pasta (no meu exemplo utilizei um arquivo .txt)
 
